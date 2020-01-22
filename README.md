@@ -1,2 +1,2 @@
 # bash-scripts
-a collection of practise-scripts
+repository for playing with bash
